@@ -42,12 +42,6 @@ body {
   margin-right: auto;
 }
 /* end global rules */
-/* .parent {
-  width: 100%;
-  height: 100vh;
-} */
-.container {
-}
 .text {
   text-align: center;
   line-height: 1.6;
@@ -113,6 +107,7 @@ body {
 .cont p {
   color: hsl(231, 6%, 45%);
 }
+/* mobile media */
 @media (max-width: 576px) {
   .cont {
     flex-direction: column;
