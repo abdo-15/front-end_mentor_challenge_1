@@ -55,12 +55,14 @@ body {
 }
 .text .top {
   font-weight: 200;
+  font-size: 30px;
 }
 .text .bottom {
   font-weight: 200;
 }
 .text .mid {
   font-weight: 600;
+  font-size: 30px;
 }
 .cont {
   display: flex;
