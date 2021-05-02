@@ -64,13 +64,14 @@ body {
 }
 .cont {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   line-height: 1.6;
   margin-bottom: 30px;
+  margin-top: 31px;
 }
 .cont > div {
-  width: calc(96% / 3);
+  width: calc(85% / 3);
 }
 .cont div:not(.not) {
   position: relative;
